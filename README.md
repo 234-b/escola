@@ -1,4 +1,11 @@
-# escola
+
+
+Nome do integrante: João Paulo Brasil Rocha da Silva
+
+RA: 3118797
+
+Título: Projeto Escola
+
 Projeto de um sistema para escola. Este sistema cadastra alunos, cadastra as disciplinas da escola bem como as notas dos alunos, altera as notas dos alunos e exibe um relatório com todos o registros.
 
 Este projeto possui as páginas de:
